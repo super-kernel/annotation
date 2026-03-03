@@ -1,0 +1,15 @@
+{
+    "name": "super-kernel/annotation",
+    "description": "The annotation component for super-kernel.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SuperKernel\\Annotation\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.4"
+    }
+}
